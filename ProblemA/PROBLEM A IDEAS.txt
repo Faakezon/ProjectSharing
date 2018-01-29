@@ -1,0 +1,17 @@
+Input consists of up to 100 test cases. Each test case starts with an integer 1 < n < 20.
+
+	Console.ReadLine För input från consolen och sen arbeta med varje fall som en addition. Använd det som 	testcase.
+		Up to 100 test cases. Randomisera fram ett antal test cases med antal människor (1-20) att fråga.
+
+
+
+3 (Persons to ask)
+87.342 34.30 (== currentPos for when talking to the first person) start (indicates the start of directions) 0 (Angle where to go) walk (units to walk.) 10.0
+
+2.6762 75.2811 (== currentPos for when walking to the second person) start -45.0 walk 40 turn 40.0 walk 60
+
+58.518 93.508 (== currentPos for when walking to the third person) start 270 walk 50 turn 90 walk 40 turn 13 walk 5
+
+
+Each person has a position X and Y. 
+Each person has a set of instructions and it begins with "start" and after that there can be a maximum of 25 instructions.

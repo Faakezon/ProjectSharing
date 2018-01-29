@@ -1,0 +1,7 @@
+C:\Users\faak9\Desktop\ProbA\ProbA\bin\Debug\ProbA.exe.config
+C:\Users\faak9\Desktop\ProbA\ProbA\bin\Debug\ProbA.exe
+C:\Users\faak9\Desktop\ProbA\ProbA\bin\Debug\ProbA.pdb
+C:\Users\faak9\Desktop\ProbA\ProbA\obj\Debug\ProbA.csprojResolveAssemblyReference.cache
+C:\Users\faak9\Desktop\ProbA\ProbA\obj\Debug\ProbA.csproj.CoreCompileInputs.cache
+C:\Users\faak9\Desktop\ProbA\ProbA\obj\Debug\ProbA.exe
+C:\Users\faak9\Desktop\ProbA\ProbA\obj\Debug\ProbA.pdb

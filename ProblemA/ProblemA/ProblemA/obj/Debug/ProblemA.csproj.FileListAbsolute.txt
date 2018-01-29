@@ -1,0 +1,7 @@
+C:\Users\faak9\Desktop\ProblemA\ProblemA\ProblemA\bin\Debug\ProblemA.exe.config
+C:\Users\faak9\Desktop\ProblemA\ProblemA\ProblemA\bin\Debug\ProblemA.exe
+C:\Users\faak9\Desktop\ProblemA\ProblemA\ProblemA\bin\Debug\ProblemA.pdb
+C:\Users\faak9\Desktop\ProblemA\ProblemA\ProblemA\obj\Debug\ProblemA.csproj.CoreCompileInputs.cache
+C:\Users\faak9\Desktop\ProblemA\ProblemA\ProblemA\obj\Debug\ProblemA.exe
+C:\Users\faak9\Desktop\ProblemA\ProblemA\ProblemA\obj\Debug\ProblemA.pdb
+C:\Users\faak9\Desktop\ProblemA\ProblemA\ProblemA\obj\Debug\ProblemA.csprojResolveAssemblyReference.cache
