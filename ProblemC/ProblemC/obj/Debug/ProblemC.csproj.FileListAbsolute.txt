@@ -1,0 +1,6 @@
+C:\Users\faak9\Desktop\ProblemC\ProblemC\bin\Debug\ProblemC.exe.config
+C:\Users\faak9\Desktop\ProblemC\ProblemC\bin\Debug\ProblemC.exe
+C:\Users\faak9\Desktop\ProblemC\ProblemC\bin\Debug\ProblemC.pdb
+C:\Users\faak9\Desktop\ProblemC\ProblemC\obj\Debug\ProblemC.csproj.CoreCompileInputs.cache
+C:\Users\faak9\Desktop\ProblemC\ProblemC\obj\Debug\ProblemC.exe
+C:\Users\faak9\Desktop\ProblemC\ProblemC\obj\Debug\ProblemC.pdb
